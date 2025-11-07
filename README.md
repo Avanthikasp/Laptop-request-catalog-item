@@ -1,12 +1,12 @@
-# 💻 Laptop Request Catalog Item – ServiceNow Project
+***Laptop Request Catalog Item – ServiceNow Project***
 
-## 📘 Overview
+**Overview**
 The **Laptop Request Catalog Item** project is developed on the **ServiceNow** platform to provide employees with an easy, efficient, and automated way to request laptops through the **Service Catalog**.  
 This solution replaces the traditional manual request process with a dynamic form that ensures accurate data collection, improves workflow visibility, and enhances user experience.
 
 ---
 
-## 🧩 Problem Statement
+**Problem Statement**
 Employees often face delays and confusion while requesting laptops through manual or email-based processes.  
 The existing system lacks:
 - Dynamic field behavior  
@@ -18,11 +18,11 @@ Hence, an automated catalog-based solution is needed to simplify the process.
 
 ---
 
-## 🚀 Proposed Solution
+**Proposed Solution**
 The project introduces a **ServiceNow Catalog Item** titled **“Laptop Request”**, designed under the **Hardware Category** in the Service Catalog.  
 It allows employees to submit structured and guided laptop requests through dynamic form fields.
 
-### 🔧 Key Features:
+**Key Features:**
 - **Dynamic Form Behavior:** Fields like *Accessories Details* appear only when the *Additional Accessories* checkbox is selected.  
 - **Reset Form Action:** A *UI Action* script adds a button to clear all form inputs instantly.  
 - **Governance via Update Sets:** All configurations are tracked through update sets for deployment between instances.  
@@ -31,7 +31,7 @@ It allows employees to submit structured and guided laptop requests through dyna
 
 ---
 
-## 🧱 Components Used
+**Components Used**
 | Component | Description |
 |------------|-------------|
 | **Catalog Item** | “Laptop Request” created under Hardware category |
@@ -43,7 +43,7 @@ It allows employees to submit structured and guided laptop requests through dyna
 
 ---
 
-## ⚙️ Implementation Steps
+**Implementation Steps**
 1. Create and activate an update set named **Laptop Request Project**.  
 2. Navigate to **Service Catalog → Maintain Items → New** and create the catalog item.  
 3. Add variables:
