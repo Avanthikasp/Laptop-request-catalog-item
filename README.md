@@ -9,6 +9,7 @@ This solution replaces the traditional manual request process with a dynamic for
 ---
 
 **Problem Statement**
+
 Employees often face delays and confusion while requesting laptops through manual or email-based processes.  
 The existing system lacks:
 - Dynamic field behavior  
@@ -21,6 +22,7 @@ Hence, an automated catalog-based solution is needed to simplify the process.
 ---
 
 **Proposed Solution**
+
 The project introduces a **ServiceNow Catalog Item** titled **“Laptop Request”**, designed under the **Hardware Category** in the Service Catalog.  
 It allows employees to submit structured and guided laptop requests through dynamic form fields.
 
