@@ -1,7 +1,7 @@
-Here you will find the pdf files about the Project Design Phase consists of
+Here you will find the pdf files about the Ideation Phase consists of
 
-1.Problem Solution Fit
+1.Idea generation
 
-2.Proposed Solution
+2.Problem statement
 
-3.Solution Architecture
+3.Empathy map canvas
