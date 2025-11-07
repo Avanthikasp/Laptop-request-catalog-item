@@ -1,6 +1,8 @@
 **Laptop Request Catalog Item – ServiceNow Project**
 
+
 **Overview**
+
 The **Laptop Request Catalog Item** project is developed on the **ServiceNow** platform to provide employees with an easy, efficient, and automated way to request laptops through the **Service Catalog**.  
 This solution replaces the traditional manual request process with a dynamic form that ensures accurate data collection, improves workflow visibility, and enhances user experience.
 
